@@ -4,7 +4,7 @@ This repository contains the paper and replication materials for this research p
 
 ## Paper
 
-The paper PDF will be added here.
+[Read the paper (PDF)](Populism_and_Manufacturing.pdf)
 
 ## Replication materials
 
