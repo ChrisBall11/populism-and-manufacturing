@@ -4,7 +4,7 @@ This repository contains the paper and replication materials for this research p
 
 ## Paper
 
-[Read the paper (PDF)](REVISION%20II%20Populism%20and%20the%20Re-birth%20of%20Manufacturing.pdf)
+[Read the paper (PDF)](REVISION%20IV%20Populism%20and%20the%20Re-birth%20of%20Manufacturing.pdf)
 
 ## Replication materials
 
