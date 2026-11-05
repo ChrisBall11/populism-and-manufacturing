@@ -8,4 +8,6 @@ This repository contains the paper and replication materials for this research p
 
 ## Replication materials
 
-Data, R code, and instructions for reproducing the results will be added here.
+[Download the replication package (v1.0)](https://github.com/ChrisBall11/populism-and-manufacturing/releases/tag/v1.0)
+
+The ZIP file is available under Assets on the release page.
