@@ -1,13 +1,13 @@
 # Populism and the Re-birth of Manufacturing
 
-This repository contains the paper and replication materials for this research project.
+## Latest Release — v1.1 (November 9, 2026)
 
-## Paper
+The latest replication package accompanies Revision VI of
+*Do Populists Rebuild Manufacturing? Cross-Country Evidence*
+by Christopher Ball and Federica Weßel.
 
-[Read the paper (PDF)](REVISION%20IV%20Populism%20and%20the%20Re-birth%20of%20Manufacturing.pdf)
+**[Download the complete v1.1 replication package](https://github.com/ChrisBall11/populism-and-manufacturing/releases/tag/v1.1)**
 
-## Replication materials
-
-[Download the replication package (v1.0)](https://github.com/ChrisBall11/populism-and-manufacturing/releases/tag/v1.0)
-
-The ZIP file is available under Assets on the release page.
+This release updates the manuscript and documentation.
+The underlying data, R code, empirical results, tables,
+and figures are unchanged from v1.0.
